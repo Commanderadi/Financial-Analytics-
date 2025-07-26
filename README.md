@@ -1,7 +1,7 @@
 How to Run the Project
  Financial Analytics Project
  1. Clone the repository:
-   git clone https://github.com/your-username/financial-analytics.git
+   git clone https:(https://github.com/Commanderadi/Financial-Analytics-.git)
    cd financial-analytics
  2. Install dependencies:
    pip install -r requirements.txt
